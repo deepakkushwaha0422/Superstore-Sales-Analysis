@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](<img width="1243" height="699" alt="Dashboard" src="https://github.com/user-attachments/assets/31ea88ca-f6d7-47f6-9793-03fb00a3d872" />)
+![Dashboard](Dashboard.png)
 
 ---
 
