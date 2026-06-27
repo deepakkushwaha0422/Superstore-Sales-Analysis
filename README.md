@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Superstore-Sales-Analysis/Dashboard.png)
 
 ---
 
