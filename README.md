@@ -43,3 +43,7 @@
 - Dashboard.pbix
 - SQL_Queries.sql
 - SampleSuperstore.csv
+
+## Live Preview
+
+https://deepakkushwaha0422.github.io/Superstore-Sales-Analysis/
